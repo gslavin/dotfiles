@@ -119,3 +119,6 @@ bind "\e[A":history-search-backward
 bind "\e[B":history-search-forward
 
 export GIT_EDITOR=vim
+export EDITOR=vim
+
+export CUDAHOME=/opt/cuda
