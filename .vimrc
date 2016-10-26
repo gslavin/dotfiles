@@ -159,10 +159,6 @@ nnoremap <CR> :nohl<CR><C-L>
  
 set t_Co=256
 set background=dark
-"------------------------------------------------------------
-"
-execute pathogen#infect()
-
 
 " look for tags in parent directory
 set tags=./tags;
